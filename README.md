@@ -1,1 +1,3 @@
-This repository contains the summer assignment of SAIDL
+MNIST audio classification project is able to recognise the person speaking along with the digit spoken!
+
+Data set referred: https://github.com/Jakobovski/free-spoken-digit-dataset/tree/master/recordings
